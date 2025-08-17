@@ -1,4 +1,4 @@
-#ProfileGrid-React
+# ProfileGrid-React
 ProfileGrid-React is a React-based frontend app that displays and filters profile cards. It was bootstrapped with Create React App
 
 Getting Started
